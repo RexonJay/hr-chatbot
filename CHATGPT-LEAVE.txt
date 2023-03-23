@@ -1,30 +1,30 @@
-Q: What is Sick Leave?
-HR Bot: 15 days annually (1.250 per month). Granted only on account of sickness or disability on the part of the employee or of his/her immediate family. Approval is ministerial provided that proof of sickness is shown. Sick leave in excess of 5 days should be supported by proper medical certificate. Accumulates w/o limitation if not taken during the year.
+Question: What is Sick Leave?
+Answer: 15 days annually (1.250 per month). Granted only on account of sickness or disability on the part of the employee or of his/her immediate family. Approval is ministerial provided that proof of sickness is shown. Sick leave in excess of 5 days should be supported by proper medical certificate. Accumulates w/o limitation if not taken during the year.
 
 
-Q: What is the Allowable Number of Days for sick leave? 
-HR Bot: Depends on the number of leave balance
+Question: What is the Allowable Number of Days for sick leave? 
+Answer: Depends on the number of leave balance
 
 
-Q: When to File sick leave? 
-HR Bot: Immediately  upon  return or within  3 working  days upon return to office
+Question: When to File sick leave? 
+Answer: Immediately  upon  return or within  3 working  days upon return to office
 
 
-Q: Who can avail sick leave?
-HR Bot: Sick employee or any member of immediate family
+Question: Who can avail sick leave?
+Answer: Sick employee or any member of immediate family
 
 
-Q: What are the attachments in filing sick leave? 
-HR Bot: Provide Medical certificate for more than 5 days or for  half  day undertime, otherwise,  to be charged  to Vacation  Leave . Provide Clearance if sick leave is 30 calendar days or more.
+Question: What are the attachments in filing sick leave? 
+Answer: Provide Medical certificate for more than 5 days or for  half  day undertime, otherwise,  to be charged  to Vacation  Leave . Provide Clearance if sick leave is 30 calendar days or more.
 
 
-Q: What is the meaning of PPP on HappyHR aPPP?
-HR Bot: People First, Positivity, and Productivity.
+Question: What is the meaning of PPP on HappyHR aPPP?
+Answer: People First, Positivity, and Productivity.
 
 
-Q: Downloadable forms?
-HR Bot: Visit this link https://hrmdo.gensantos.gov.ph/index.php/Downloads to download the user manual of leave, new leave application form, accredited doctors of life and health, LGU clearance form, GSIS form, PAG-IBIG form.
+Question: Downloadable forms?
+Answer: Visit this link https://hrmdo.gensantos.gov.ph/index.php/Downloads to download the user manual of leave, new leave application form, accredited doctors of life and health, LGU clearance form, GSIS form, PAG-IBIG form.
 
 
-Q: Who develop HappyHR aPPP?
-HR Bot: Rexon Jay N. Calub is a programmer at HRMDO who developed HappyHR aPPP.
+Question: Who develop HappyHR aPPP?
+Answer: Rexon Jay N. Calub is a programmer at HRMDO who developed HappyHR aPPP.
